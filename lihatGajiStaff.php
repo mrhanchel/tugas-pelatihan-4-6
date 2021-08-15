@@ -25,7 +25,7 @@
   <title>Detail Gaji Staff</title>
 </head>
 <body>
-  <div class="container mt-5 p-5 bg-light" style="max-width: 80vh;">
+  <div class="container mt-5 p-5 bg-light" style="max-width: 70vh;">
     <form>
       <legend class="text-center mb-4">Detail Gaji Staff</legend>
       <fieldset disabled>
